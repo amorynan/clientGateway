@@ -1,0 +1,20 @@
+# Eclipse
+.settings/
+target/
+.classpath
+.project
+*.log
+*.log.*
+application.properties
+
+# vim
+*.swp
+
+# Mac crap
+.DS_Store
+
+*.iml
+
+.idea/*
+
+src/test/*
